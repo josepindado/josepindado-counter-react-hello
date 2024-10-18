@@ -40,12 +40,13 @@ import PropTypes from 'prop-types';
     );
 };
 
-Counter.propTypes = {
-    digitSix: PropTypes.number,
-    digitFive: PropTypes.number,
-    digitFour: PropTypes.number,
-    digitThree: PropTypes.number,
-    digitTwo: PropTypes.number,
-    digitOne: PropTypes.number,
-};
+// Counter.propTypes = {
+//     six: PropTypes.number,
+//     five: PropTypes.number,
+//     four: PropTypes.number,
+//     three: PropTypes.number,
+//     two: PropTypes.number,
+//     one: PropTypes.number,
+// };
+
 export default Counter;
